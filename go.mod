@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/gpiliponyte/hello
 
 go 1.13
 
